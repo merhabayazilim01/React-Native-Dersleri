@@ -1,0 +1,27 @@
+1. Java JDK 17 Kurulumu 
+Java JDK 17 veya OpenJDK 17 indirin.
+Kurulumu tamamlayın.
+
+
+2. Android Studio İndirme ve Kurulum
+Android Studio resmi sitesinden Windows sürümünü indirin.
+Android Studio kurulumunu gerçekleştirin ve aşağıdaki bileşenleri eklediğinizden emin olun:
+Android SDK
+Android SDK Platform-Tools
+Android Emulator
+
+
+3. Android Studio Ayarları ve Emulator Kurulumu
+Android Studio'yu başlatın ve "More Actions" altında Virtual Device Manager'ı açın.
+Yeni bir sanal cihaz oluşturmak için:
+Create Virtual Device seçeneğini tıklayın.
+Telefon modelini seçin (ör. Pixel 5).
+Bir API seviyesi (ör. Android 12 veya 13) indirin.
+Finish diyerek cihazı oluşturun.
+Emulator'u test etmek için "Play" ikonuna tıklayın.
+
+
+4. Gerekli Araçlar ve Kontroller
+Node.js: Node.js (LTS sürüm) yüklü olmalıdır. (Resmi Sitesinden Kolayca İndirebilirsiniz)
+Expo CLI: npm install -g expo-cli komutuyla yükleyebilirsiniz.
+Bu adımları takip ederek Expo projelerinizi Android Emulator üzerinde çalıştırabilirsiniz.
